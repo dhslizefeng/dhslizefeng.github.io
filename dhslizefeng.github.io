@@ -7,13 +7,15 @@
 <title> This is my website </title>
 <img src="photo.jpg"/>
 <p>
-My name is Mark Leonard. I am a student of Dunman High School. Currently in 1st year high school. </p>
+My name is Li Zefeng. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
-Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
+<img src="https://m.facebook.com/CriticalOpsGame/?__tn__=C"/>
 <br>
 <p>Here are the things I love to do the most : </p> 
 <ul>
-<li>Climbing Mountains</li>
+<li> Playing games</li>
+<img src="http://www.redmondpie.com/pubg-mobile-graphics-resolution-settings-fix-lag-more-heres-how-to-configure-it-all/"/>
+<li> Reading books>
 <img src="https://www.goodreads.com/book/show/13294266-bot-wars"/>
 </ul>
 </body>
