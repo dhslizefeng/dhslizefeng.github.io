@@ -5,6 +5,8 @@
 <body>
 <h1> All About Me</h1>
 <title> This is my website </title>
+</head>
+<body>
 <img src="photo.jpg"/>
 <p>
 My name is Li Zefeng. I am a student of Dunman High School. Currently in 1st year high school. </p>
