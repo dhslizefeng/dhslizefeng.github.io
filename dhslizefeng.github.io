@@ -7,7 +7,7 @@
 <title> This is my website </title>
 </head>
 <body>
-<img src="photo.jpg"/>
+ <img src="dhslizefeng.github.io"/>
 <p>
 My name is Li Zefeng. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
